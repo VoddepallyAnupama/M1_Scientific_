@@ -5,7 +5,7 @@ This repository is used to create Scientific Calculator using C programming lang
 
 * [![Unit Testing](https://github.com/VoddepallyAnupama/M1_Scientific_Calculator_Util/actions/workflows/unittestmain.yml/badge.svg)](https://github.com/VoddepallyAnupama/M1_Scientific_Calculator_Util/actions/workflows/unittestmain.yml)
 
-* [![STATIC ANALYSIS](https://github.com/VoddepallyAnupama/M1_Scientific_Calculator_Util/actions/workflows/cppcheckmain.yml/badge.svg)](https://github.com/VoddepallyAnupama/M1_Scientific_Calculator_Util/actions/workflows/cppcheckmain.yml)
+* [![STATIC ANALYSIS](https://github.com/VoddepallyAnupama/M1_Scientific_/actions/workflows/cppcheckmain.yml/badge.svg)](https://github.com/VoddepallyAnupama/M1_Scientific_/actions/workflows/cppcheckmain.yml)
 
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0568cc753f394717bcaa66fef29d83d1)](https://www.codacy.com/gh/VoddepallyAnupama/M1_Scientific_Calculator_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=VoddepallyAnupama/M1_Scientific_Calculator_Util&amp;utm_campaign=Badge_Grade)
 
