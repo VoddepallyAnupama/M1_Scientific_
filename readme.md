@@ -3,7 +3,7 @@ This repository is used to create Scientific Calculator using C programming lang
 
 # Badges
 
-* [![Unit Testing](https://github.com/VoddepallyAnupama/M1_Scientific_Calculator_Util/actions/workflows/unittestmain.yml/badge.svg)](https://github.com/VoddepallyAnupama/M1_Scientific_Calculator_Util/actions/workflows/unittestmain.yml)
+* [![Unit Testing](https://github.com/VoddepallyAnupama/M1_Scientific_/actions/workflows/unittestmain.yml/badge.svg)](https://github.com/VoddepallyAnupama/M1_Scientific_/actions/workflows/unittestmain.yml)
 
 * [![STATIC ANALYSIS](https://github.com/VoddepallyAnupama/M1_Scientific_/actions/workflows/cppcheckmain.yml/badge.svg)](https://github.com/VoddepallyAnupama/M1_Scientific_/actions/workflows/cppcheckmain.yml)
 
